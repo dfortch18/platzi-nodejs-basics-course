@@ -1,0 +1,4 @@
+I'm
+a
+input
+file
